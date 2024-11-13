@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# <b>Artem Elin</b>
 
 I’m a **developer and data enthusiast** with a passion for creating impactful and scalable tech solutions. As a freelancer and student, I specialize in **Python** for data processing and analysis and **JavaScript** frameworks like **Node.js** and **React.js** for web applications. My projects span multiple domains, reflecting both my technical expertise and commitment to delivering real-world results. Here’s a snapshot of my work:
 
